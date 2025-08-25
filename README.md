@@ -1,8 +1,8 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Giuliano!
-👩🏻‍💻 Advanced Software Engineer Student sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Software Systems Engineering at Universidad Nacional del Sur, Argentina<br/>
+👨🏻‍💻 Advanced Software Engineer Student sharing about my journey and learnings in tech<br/>
+👨🏻‍🎓 Studied Software Systems Engineering at Universidad Nacional del Sur, Argentina<br/>
 💭 Currently learning about cloud computing, full-stack development, and machine learning!
 
 # 💻 Tech Stack:
